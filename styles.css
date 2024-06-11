@@ -45,6 +45,12 @@ h1 {
     color: #CCCCCC;
 }
 
+h2 {
+    margin-top: 10px;
+    color: #CCCCCC;  /* Adjust subheader color for contrast */
+    font-weight: normal;
+}
+
 .media-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
