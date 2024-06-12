@@ -1,0 +1,7 @@
+Color Palette
+
+Dark Grey, 1A1A1A, 333333
+Light Grey, B3B3B3, CCCCCC
+Red, FF3333
+Green, 7AC943
+Blue, 7AC943
