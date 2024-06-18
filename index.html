@@ -123,6 +123,17 @@
 		.logo img {
 			max-height: 100px;
 			width: auto;
+		        }
+        @media only screen and (max-width: 600px) {
+            .media-grid {
+                grid-template-columns: 1fr;
+                justify-items: center;
+            }
+            .media {
+                margin: 0 auto;
+                width: 90%;
+            }
+        }
     
 }
 
